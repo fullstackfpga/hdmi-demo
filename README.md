@@ -8,3 +8,5 @@ Demo of [hdl-util/hdmi](https://github.com/hdl-util/hdmi/) on several boards:
 |[Seeed Spartan Edge Accelerator](https://www.seeedstudio.com/Spartan-Edge-Accelerator-Board-p-4261.html)|Xilinx Spartan 7 (XC7S15)|1280x720 @ 60Hz|PCM 24-bit 48KHz (approximately)|
 |[Digilent Zybo](https://digilent.com/reference/programmable-logic/zybo/start)|Xilinx Zynq-7000 (XC7Z010)|1280x720 @ 60Hz|PCM 24-bit 48KHz (approximately)|
 |[Digilent Zybo Z7-20](https://digilent.com/shop/zybo-z7-zynq-7000-arm-fpga-soc-development-board/)|Xilinx Zynq-7000 (XC7Z020)|1280x720 @ 60Hz|PCM 24-bit 48KHz (approximately)|
+|[Digilent Arty Z7-20](https://digilent.com/shop/arty-z7-zynq-7000-soc-development-board/)|Xilinx Zynq-7000 (XC7Z020)|1280x720 @ 60Hz|PCM 24-bit 48KHz (approximately)|
+|[Myirtech Z-turn](https://www.myirtech.com/list.asp?id=502)|Xilinx Zynq-7000 (XC7Z020)|1280x720 @ 60Hz|PCM 24-bit 48KHz (approximately)|
